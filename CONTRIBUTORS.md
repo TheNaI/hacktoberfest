@@ -16568,3 +16568,10 @@ to explore life. Also, Python and Django Developer
 - Place: Mojokerto, Indonesia
 - Bio: Android Developer, Laravel Coder, Amateur Vue, football enthusiast.
 - GitHub: [umaams](https://github.com/umaams)
+
+#### Name: [Nai](https://github.com/TheNaI)
+- Place: Bangkok, Thailand
+- Bio: Interactive Developer
+- GitHub: [TheNaI](https://github.com/TheNaI)
+
+
